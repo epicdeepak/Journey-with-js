@@ -11,15 +11,15 @@
 <h4> You can make simple HTML, CSS and JavaScript projects to contribute here.</h4>
  
 
-Check out `good-first-issues` for contributing [here](https://github.com/deeqakkk/Journey-with-js/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+Check out `good-first-issues` for contributing [here](https://github.com/epicdeepak/Journey-with-js/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 </div>
 
 
 ## Connect with here ⬇️ Don't fogot to checkout [Way2Intern](https://twitter.com/Way2Intern) !
 ### **Deepak Verma**
-* [Twitter](https://twitter.com/deeqakkk)
-* [GitHub](https://github.com/deeqakkk)
-* [Linkedin](https://www.linkedin.com/in/deeqakkk/)
+* [Twitter](https://twitter.com/epicdeepak)
+* [GitHub](https://github.com/epicdeepak)
+* [Linkedin](https://www.linkedin.com/in/epicdeepak/)
 
 
  
